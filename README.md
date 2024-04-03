@@ -147,7 +147,7 @@ The project exposes the following API endpoints:
 
 ## Contributing
 
-Contributions to the Tokenized Real Estate Ownership project are welcome! Feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
+Contributions to the Tokenized Real Estate Ownership project are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Just make sure that the code changes are done in a different branch and not the main branch. For major changes, please open an issue first to discuss the proposed changes.
 
 ## Common issues while running this project
 
